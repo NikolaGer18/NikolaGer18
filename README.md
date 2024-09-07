@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img width="125" height="125" src="assets/jahseh.gif" alt="Jahseh">
+      <img width="125" height="125" src="jahseh.gif" alt="Jahseh">
     </td>
     <td>
       <code>👻 Name:</code> Nikola Gerdzhikov<br>
